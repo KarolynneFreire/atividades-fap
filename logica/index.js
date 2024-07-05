@@ -1,3 +1,55 @@
+// let valorConvertido; 
+// let cotacaoAtual = Number(prompt('Digite a cotação do dolar atual: ')); //Number
+// let carteira = Number(prompt('Digite o valor que quer converter em reais: '));
+// let opcao = Number(prompt('Escolha uma opção: \n1 - Real -> Dolar \n2 - Dolar -> Real'));
+
+// if (opcao == 1) {
+//     valorConvertido = carteira / cotacaoAtual;
+//    alert("O valor convertido de Real para Dolar é " + valorConvertido);
+// } else {
+//     valorConvertido = cotacaoAtual * carteira;
+//     alert("O valor convertido de Dolar para Real é " + valorConvertido);  
+// }
+//alert(valorConvertido);
+
+
+// let numero = Number(prompt('Digite um numero: '));
+
+// if (numero%2 == 0) {
+//     document.write('Par')  
+// } else {
+//     document.write('Impar')
+// }
+
+// let numero1 = Number(prompt('Digite o primeiro número: '));
+// let numero2 = Number(prompt('Digite osegundo número: '));
+
+// if (numero1 > numero2) {
+//     document.write('O número 1 é maior'); 
+// } else if(numero2 > numero1){
+//     document.write('O número 2 é maior');
+// }else{
+//     document.write('Os números são iguais');
+// }
+
+// let nota1 = Number(prompt('Digite a primeira nota: '));
+// let nota2 = Number(prompt('Digite a segundo nota: '));
+
+// if (nota1 >= 6) {
+//     document.write('Aluno aprovado na primeira prova; ' ,'<br>');
+   
+// } else {
+//     document.write('Aluno reprovado a primeira prova; ' ,'<br>');
+// }
+
+// if (nota2 >= 6) {
+//     document.write('Aluno aprovado na segunda prova; ');
+// } else {
+//     document.write('Aluno reprovado a segunda prova; ');
+// }
+
+
+
 // let ingresso = prompt("Digite o tipo de ingresso (1 para VIP, 2 para standard):");
 
 // if (ingresso !== '1' && ingresso !== '2') {
@@ -28,8 +80,6 @@
 //         alert("Valor: " + valor + " reais");
 //     }
 // }
-
-
 
 // let opcao = prompt(
 //     "Bem-vindo ao Chat!\n" +
